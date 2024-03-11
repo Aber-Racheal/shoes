@@ -1,0 +1,259 @@
+.navsection{
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    gap: 250px;
+    height: 100px;
+    padding: 50px;
+    top: 0;
+}
+
+
+
+.button div{
+    gap: 90px;
+    display: flex;
+}
+
+
+
+
+#small button{
+    width: 90px;
+    height: 50px;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+
+
+
+
+/* Black nav section ends here */
+
+
+/* CONTENT BELOW NAV SECTION */
+
+.background{
+background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) ,url('./image.html/sneakerback.jpg') ;
+background-size: cover;
+height: 850px;
+border-radius: 90px;
+margin: 5%;
+padding-top: 600px;
+}
+
+
+#Embrace{
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 100px;
+    text-align: left;
+    margin-top: 30%;
+    margin-left: 3%;
+
+}
+
+#Designed{
+    color: whitesmoke;
+    font-size: larger;
+    font-weight: bold;
+    text-align:left;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+#buynow{
+    float: right;
+    margin-right: 10%;
+    height: 80px;
+    width: 20%;
+    border-radius: 40px;
+    
+}
+
+
+
+/* Magic and Comfort */
+
+#Magic{
+    text-align: center;
+    color: black;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+
+
+
+
+
+/* THE FOUR IMAGES */
+
+/* First */
+
+.SHOES{
+    display: flex;
+    gap: 180px;
+    padding: 0;
+    width: 100%;
+    margin-top: 5%;
+}
+
+
+
+
+.toppic1{
+    width: 500px;
+}
+
+.priceicon{
+    display: flex;
+    gap: 40px;
+}
+
+
+.toppic2{
+    width: 250px;
+
+}
+
+
+
+.toppic3{
+    width: 250px;
+
+}
+
+
+.toppic4{
+    width: 250px;
+
+}
+
+
+#carts{
+    display: flex;
+    gap: 300px;
+}
+
+
+#mod{
+    display: flex;
+    gap: 100px;
+    
+}
+
+#SeeAll{
+
+    margin-top: 10%;
+    margin-left: 40%;
+    border-radius: 10px;
+    background-color: black;
+    color: whitesmoke;
+    height: 40px;
+    width: 150px;   
+
+}
+
+
+
+.Await{
+    display: flex;
+    gap: 800px;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+
+#await{
+    font-size:70px;
+    font-weight: bolder;
+}
+
+
+#des{
+    font-size: 25px;
+}
+
+#seebutton{
+    margin-top: 10%;
+    margin-left: 40%;
+    border-radius: 10px;
+    background-color: black;
+    color: whitesmoke;
+    height: 40px;
+    width: 150px;
+}
+
+
+#blackshoe{
+    margin-top: 10%;
+    width: 200px;
+
+}
+
+
+#brownshoe{
+    width: 300px;
+}
+
+
+
+#Explore{
+    font-size: 80px;
+    color: black;
+    text-align: center;
+    margin-top: 5%;
+    font-weight: bold;
+    padding: 1px;
+
+}
+
+
+.background2{
+    height: 500px;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) ,url('./image.html/ground.jpg');
+    background-size: cover;
+    margin-top: 1%;
+    border-radius: 5%;
+    margin: 10%;
+}
+
+
+
+
+
+
+
+.footerdiv1{
+    display: flex;
+    background-color: black;
+    color: whitesmoke;
+    gap: 25px;
+
+}
+
+
+#footerdiv2{
+    margin-left: 10%;
+}
+
+#title{
+    font-weight: bolder;
+}
+
+
+#Embrace1{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 60px;
+    font-weight: bolder;
+    margin-top: 5%;
+    margin-bottom: 10%;
+
+}
+
+
+#logoz{
+    display: flex;
+}
